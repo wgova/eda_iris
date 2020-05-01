@@ -1,6 +1,6 @@
 An in-depth tutorial format notebook to explore different types of useful visualisations for the purpose of exploratory data visualisation of the iris dataset to benchmark and evaluate the effectiveness of k-means classification against its assumptions.
 
-[Colab notebook accessible here](https://colab.research.google.com/github/wgova/kmeans-clustering/blob/master/notebooks/iris_analysis.ipynb)
+[Colab notebook](https://colab.research.google.com/github/wgova/kmeans-clustering/blob/master/notebooks/iris_analysis.ipynb)
 
 ## Exploratory data analysis
 Exploratory data analysis to check for natural groups
