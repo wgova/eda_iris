@@ -3,7 +3,7 @@ This tutorial explores different visualisations and multivariate analysis techni
 [Colab notebook](https://colab.research.google.com/github/wgova/kmeans-clustering/blob/master/notebooks/iris_analysis.ipynb)
 
 ## Exploratory data analysis
-The iris dataset has some evidence of groups based on the species, but with evidence that two of the three species (Iris versicola abd Iris virginica) have closely related properties. A clustering algorithm like k-means clustering might be able to separate these two species better, or find another dimension to separate the species.   
+The iris dataset has some evidence of groups based on the species, but with evidence that two of the three species (Iris versicola and Iris virginica) have closely related properties. A clustering algorithm like k-means clustering might be able to separate these two species better, or find another dimension to separate the species.   
   
 ![Pairwise plot](https://github.com/wgova/eda_iris/blob/master/img/pairwise.png)
 
